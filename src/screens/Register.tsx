@@ -4,7 +4,7 @@ import { TextInput, TouchableOpacity } from 'react-native-gesture-handler';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import colors from '../constants/colors';
 import { Zocial } from '@expo/vector-icons';
-import Logo from '../components/logo';
+import Logo from '../components/Logo';
 
 const Register = ({ navigation }: any) => {
   const handleLogin = (event: any) => {

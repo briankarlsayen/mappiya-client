@@ -6,7 +6,7 @@ import colors from '../constants/colors';
 import { Zocial } from '@expo/vector-icons';
 import MappiyaIcon from '../../assets/mappiya_logo.png';
 import MappiyaTxt from '../../assets/mappiya_txt.png';
-import Logo from '../components/logo';
+import Logo from '../components/Logo';
 
 const Login = ({ navigation }: any) => {
   const handleLogin = (event: any) => {
